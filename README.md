@@ -9,5 +9,5 @@ Project to build a fun race track game
 * Collect boosters
 
 ## Screen shots
-![Track](docs\Track_Close.png)
-![Full Track](docs\Full_Track.png)
+![Track](../docs/Track_Close.png)
+![Full Track](../docs/Full_Track.png)
