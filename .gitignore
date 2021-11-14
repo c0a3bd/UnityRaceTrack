@@ -10,4 +10,4 @@ UserSettings/
 *.unity
 *.json
 *.asset
-Assets/Art/
+**/Art/
