@@ -1,0 +1,13 @@
+exclude/
+Library/
+Logs/
+Packages/
+ProjectSettings/
+UserSettings/
+*.sln
+*.csproj
+*.meta
+*.unity
+*.json
+*.asset
+Assets/Art/
